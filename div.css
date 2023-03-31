@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.topo{
+    background-color: #ff6432;
+    text-align: center;
+    padding: 2px;
+    color: white;
+}
+
+.menu{
+    background-color: #044e2e;
+    overflow: hidden;
+}
+
+.menu a{
+    color: white;
+    padding: 14px 16px;
+    float: left;
+    display: block;
+    text-decoration: none;
+}
+
+.coluna-50{
+    float: left;
+    width: 50%;
+    padding: 15px;
+    background-color: white;
+}
+
+.referencia a{
+    background-color: white;
+    color: red;
+    border-radius: 0px;
+    padding: 0px;
+    margin-left: 0px;
+}
+
+.rodape{
+    float: left;
+    background-color: #ff6432;
+    margin-top: 50px;
+    width: 100%;
+	height:100%;
+    padding: 50px 10px 50px 10px;
+}
