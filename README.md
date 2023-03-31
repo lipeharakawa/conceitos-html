@@ -17,11 +17,11 @@ Página web com conceitos importantes de HTML.
 <br>
 
 <p align="center">
-  <img alt="Foto projeto JavaScript Intermediário" src=".github/preview-1.png" width="100%">
-  <img alt="Foto projeto JavaScript Intermediário" src=".github/preview-2.png" width="100%">
-  <img alt="Foto projeto JavaScript Intermediário" src=".github/preview-3.png" width="100%">
-  <img alt="Foto projeto JavaScript Intermediário" src=".github/preview-4.png" width="100%">
-  <img alt="Foto projeto JavaScript Intermediário" src=".github/preview-5.png" width="100%">
+  <img alt="Foto projeto Elementos HTML" src=".github/preview-1.png" width="100%">
+  <img alt="Foto projeto Elementos HTML" src=".github/preview-2.png" width="100%">
+  <img alt="Foto projeto Elementos HTML" src=".github/preview-3.png" width="100%">
+  <img alt="Foto projeto Elementos HTML" src=".github/preview-4.png" width="100%">
+  <img alt="Foto projeto Elementos HTML" src=".github/preview-5.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,9 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página web com conceitos básicos de JavaScript.
+Página web com conceitos importantes de HTML.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/JS-intermediario)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/conceitos-html)
 
 ## ✅ Licença
 
